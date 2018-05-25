@@ -1,0 +1,19 @@
+{
+	 "name": "newsoftsnc/yii2nslib",
+   	 "description": "Libreria di Componenti per Yii2",
+   	 "keywords": ["yii2"],
+   	 "type": "yii2-extension",
+   	 "license": "GPL-3.0-or-later",
+   	 "authors": [{
+   	     	"name": "Newsoft s.n.c.",
+   		 "email": "info@newsoftonline.it",
+   		 "homepage": "http://www.newsoftonline.it"
+   	 }],
+   	 "autoload": {
+	      "psr-4": {
+			"yii2nslib\\" : "src/"
+		}
+	},
+	"version": "1.0.0",
+	"minimum-stability": "dev"
+}
