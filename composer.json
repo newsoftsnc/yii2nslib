@@ -11,7 +11,7 @@
    	 }],
    	 "autoload": {
 	      "psr-4": {
-			"yii2nslib\\" : "src/"
+			"newsoftsnc\\yii2nslib\\" : ""
 		}
 	},
 	"version": "1.0.0",
